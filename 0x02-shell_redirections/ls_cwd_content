@@ -1,0 +1,17 @@
+total 52
+drwxr-xr-x 2 root root 308 Mar 13 12:59 .
+drwxr-xr-x 6 root root 174 Mar 13 03:05 ..
+-rwxr-xr-x 1 root root  32 Mar 13 03:37 0-hello_world
+-rwxr-xr-x 1 root root  34 Mar 13 04:21 1-confused_smiley
+-rwxr-xr-x 1 root root  28 Mar 13 04:32 2-hellofile
+-rwxr-xr-x 1 root root  39 Mar 13 04:45 3-twofiles
+-rwxr-xr-x 1 root root  34 Mar 13 12:13 4-lastlines
+-rwxr-xr-x 1 root root  29 Mar 13 12:31 5-firstlines
+-rwxr-xr-x 1 root root  31 Mar 13 12:24 5-firstlines~
+-rwxr-xr-x 1 root root  36 Mar 13 12:51 6-third_line
+-rwxr-xr-x 1 root root 196 Mar 13 12:42 6-third_line~
+-rwxr-xr-x 1 root root  99 Mar 13 12:55 7-file
+-rwxr-xr-x 1 root root  35 Mar 13 12:58 8-cwd_state
+-rw-r--r-- 1 root root  12 Mar 13 12:55 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   0 Mar 13 12:59 ls_cwd_content
+-rw-r--r-- 1 root root  17 Mar 13 03:28 README.md
